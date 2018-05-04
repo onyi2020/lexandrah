@@ -1,0 +1,113 @@
+body{
+	background-color: #000
+	/*padding-top: 50px;*/
+}
+nav{
+	background-color:#6f42c1;
+	opacity: 0.7;
+}
+h1{
+	margin: 25px auto 0px;
+	padding:12px;
+	font-size: 22px;
+	color: #fff;
+}
+.nav li{
+	margin: 25px 15px 0px;
+	font-size: 20px;
+
+}
+.jumbotron{
+	font-family: tangerine;
+	font-size: 40px;
+	background-color:  #343a40;
+	text-align: center;
+	margin-top:70px;
+	color: #fff;
+}
+#about{
+	background-color: #868e96;
+}
+/* End of header styling**/
+
+/*beginning of "about" styling**/
+.scrollable{
+	font-size: 20px;
+	color: #fff;
+}
+.pic-title{
+	color: pink;
+	font-size: 10px,
+	margin-top:10px;
+}
+.pic-title span{
+	color: #fff;
+}
+
+h2{
+	font-size: 40px;
+	font-family: tangerine;
+	color: #fff;
+	margin:20px auto 20px;
+	text-align: center;
+}
+
+.works{
+	font-size: 17px;
+	padding:10px;
+	text-align: center;
+	color: #fff;	
+	margin-bottom: 10px;
+}
+iframe{
+	border:1px solid white;
+	width: 250px;
+	height:200px;
+	padding: 10px;
+}
+.iframe-text{
+	color: #fff;
+	font-size: 15px;
+	font-family: inconsolata;
+	margin-top: 5px;
+	margin-bottom: 15px;							
+}
+#contact{
+	background-color: #343a40;
+}
+#contact .row{
+	color: #fff;
+	padding: 10px;
+}
+#contact .row strong{
+	font-size: 20px;
+}
+.fix{
+	margin-top: 15px;
+	font-family: Rye;
+}
+#info input {
+	width: 80%;
+	margin-bottom: 5px;
+	color: #000;
+}
+textarea{
+	color: #000;
+}
+
+hr{
+	height: 3px;
+	width: 100%;
+}
+.panel-footer{
+	background-color: #f8f9fa;
+	text-align: center;
+	font-size: 15px;
+	color: #000;
+}
+.panel-footer a{
+	text-decoration: none;
+	padding: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
